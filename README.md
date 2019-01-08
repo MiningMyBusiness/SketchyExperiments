@@ -1,5 +1,5 @@
 # Sketchy experiments
-Accompanying code for experiments carried out with the Sketchy dataset. First, download the Sketchy dataset [here](http://sketchy.eye.gatech.edu/) to use this code. 
+Accompanying code for experiments carried out with the Sketchy dataset. First, download the Sketchy dataset [here](http://sketchy.eye.gatech.edu/) to use this code. All code uses the output from PngToNumpy.py, so you'll have to run that first. 
 
 ### Pixel N-grams
 Experiments completed with N-grams trained on pixel values from the Sketchy dataset to create new images. Spoiler alert: they don't look like sketches at all. 
