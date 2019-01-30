@@ -1,4 +1,6 @@
 # Sketchy experiments
+This repo accompanies this [project page](https://sites.google.com/view/sketchy-experiments/home).
+
 Accompanying code for experiments carried out with the Sketchy dataset. First, download the Sketchy dataset [here](http://sketchy.eye.gatech.edu/) to use this code. All code uses the output from PngToNumpy.py, so you'll have to run that first. 
 
 ### Pixel N-grams
